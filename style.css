@@ -1,0 +1,32 @@
+.div01 {
+    width: 365px;
+    height: 365px;
+    border-radius: 12px;
+    background-color:  #297E40;
+    display: inline-block;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+
+.div02 {
+    width: 365px;
+    height: 365px;
+    border-radius: 90px;
+    background-color:  #8E2877;
+    display: inline-block;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+
+.div03 {
+    width: 365px;
+    height: 365px;
+    border-radius: 20px;
+    background-color:  #361BA4;
+    display: inline-block;
+    margin-top: 32px;
+    margin-left: 32px
+}
+
